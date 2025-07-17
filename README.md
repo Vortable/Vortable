@@ -1,4 +1,4 @@
-# Welcome to My Data Science Trek! 💕
+# My Data Science Trek! 💕
 
 Hi, I'm **@Vortable** — I love to code and make the world a more collaborative place.  
 I've been an **entrepreneur for 12 years**, striving to **democratize the world of science** through my work crafting science programs for **girls, non-binary folks, and allies**.
