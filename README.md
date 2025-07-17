@@ -1,7 +1,7 @@
 # Welcome to My Data Science Trek! 💕
 
 Hi, I'm **@Vortable** — I love to code and make the world a more collaborative place.  
-I've been an **entrepreneur for 12 years**, striving to **democratize the world of science** through my work crafting science programs for **girls, non-binary individuals, and allies**.
+I've been an **entrepreneur for 12 years**, striving to **democratize the world of science** through my work crafting science programs for **girls, non-binary folks, and allies**.
 I'm inspired by **data-driven discovery** with an emphasis on **simplicity and accessibility**.
 I'm currently contracted as the **Uplift Coordinator for Data Analytics and Uplift Mobility** at **YWCA Hamilton**, in partnership with **MMRI at McMaster University**.
 
